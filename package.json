@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "scripts": {
+  "script": "node ./lesson_04/fse.js"
+}
+}
